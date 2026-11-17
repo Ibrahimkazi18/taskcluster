@@ -1,0 +1,1 @@
+Real local browser captures from November 15, 2026, for taskcluster/taskcluster#9451 at commit 574909a37ab95c1e3e583f97d43df692c7e9b2d3. Synthetic artifacts only. Evidence branch; not part of the contribution diff.
